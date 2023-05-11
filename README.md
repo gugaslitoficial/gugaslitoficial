@@ -1,7 +1,7 @@
 ## Olá, como vai? 🤠
 
-- 🔭 Hoje, estou na faculdade de Análise e Desenvolvimento de Sistemas (formatura para Junho/2022);
-- 🤖 Programando de tudo um pouco, mas com foco em Python e Django;
+- 🔭 Pós-Graduado em Engenharia de Software e Segurança de Redes (também termiando  outra pós de Engenharia de Dados);
+- 🤖 Programando de tudo um pouco, mas com foco em Python e Java;
 - 🧐 Sempre em busca de conhecimento e experiências;
 - Contate-me pelo E-mail (gustavo-romao@hotmail.com);
 
