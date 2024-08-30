@@ -1,6 +1,6 @@
 ## Olá, como vai? 🤠
 
-- 🔭 Pós-Graduado em Engenharia de Software e Segurança de Redes (também termiando  outra pós de Engenharia de Dados);
+- 🔭 Pós-Graduado em Engenharia de Software,Segurança de Redes e Engenharia de Dados;
 - 🤖 Programando de tudo um pouco, mas com foco em Python e Java;
 - 🧐 Sempre em busca de conhecimento e experiências;
 - Contate-me pelo E-mail (gustavo-romao@hotmail.com);
